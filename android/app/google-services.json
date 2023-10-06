@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "50655271665",
+    "firebase_url": "https://swift-8ba42-default-rtdb.firebaseio.com",
+    "project_id": "swift-8ba42",
+    "storage_bucket": "swift-8ba42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50655271665:android:59d9b66d8a0e04c8a36750",
+        "android_client_info": {
+          "package_name": "com.app.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50655271665-bdb099ijfbh18sm5u2ck9qho2vvr5gb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.driverapp",
+            "certificate_hash": "6e42fc4a29aa0cefcc3ea191b9d5828ce2f07baf"
+          }
+        },
+        {
+          "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiB_BCn-EqoHs72pbaplppp0KUGM8seZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50655271665-46ka5h3i7jjgrugfsbfh65dcjdtlf716.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.driver.drivertester05"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50655271665:android:43b28f83fb0337dea36750",
+        "android_client_info": {
+          "package_name": "com.driver.drivertester05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50655271665-adh5uuoern7p3gfk8o7f82ppvnftn7qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driver.drivertester05",
+            "certificate_hash": "55ad7b6216cf4c0476186fa111654ead9ae0158a"
+          }
+        },
+        {
+          "client_id": "50655271665-uqj50p2jt9im1kejdj1irbmk1i6d0j50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driver.drivertester05",
+            "certificate_hash": "0466838c8f397754b1cb91a0129a2533c14cdbcc"
+          }
+        },
+        {
+          "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiB_BCn-EqoHs72pbaplppp0KUGM8seZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50655271665-46ka5h3i7jjgrugfsbfh65dcjdtlf716.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.driver.drivertester05"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50655271665:android:65236e23d6afe949a36750",
+        "android_client_info": {
+          "package_name": "com.swift.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50655271665-fc8cjjgu5282nr0rf0ugrv3lb24gqltj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swift.user",
+            "certificate_hash": "01920199304c5b3bb24509eeae0871bf079d2288"
+          }
+        },
+        {
+          "client_id": "50655271665-mtp5ibggbsv131716eg3vtfdf1313950.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swift.user",
+            "certificate_hash": "3bc946426971dc16b862b9f793206a7f7d441b2f"
+          }
+        },
+        {
+          "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiB_BCn-EqoHs72pbaplppp0KUGM8seZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50655271665-46ka5h3i7jjgrugfsbfh65dcjdtlf716.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.driver.drivertester05"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50655271665:android:0dcdef7b40e1fefda36750",
+        "android_client_info": {
+          "package_name": "com.tagxi.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiB_BCn-EqoHs72pbaplppp0KUGM8seZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50655271665-46ka5h3i7jjgrugfsbfh65dcjdtlf716.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.driver.drivertester05"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50655271665:android:648fb8e444400462a36750",
+        "android_client_info": {
+          "package_name": "com.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiB_BCn-EqoHs72pbaplppp0KUGM8seZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50655271665-ppgq9f0fiqor60opnpr6bnsob8ctgebb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50655271665-46ka5h3i7jjgrugfsbfh65dcjdtlf716.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.driver.drivertester05"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

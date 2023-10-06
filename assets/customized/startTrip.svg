@@ -1,0 +1,13 @@
+<svg id="Component_19_1" data-name="Component 19 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="161" height="44" viewBox="0 0 161 44">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="161" height="44" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_33" data-name="Repeat Grid 33" clip-path="url(#clip-path)">
+    <g transform="translate(-110 18)">
+      <rect id="Sign_in_-_btn_Background_Mask_" data-name="Sign in - btn (Background/Mask)" width="159" height="40" rx="15" transform="translate(110 -16)" fill="#369cc7"/>
+    </g>
+  </g>
+  <text id="Start_Trip" data-name="Start Trip" transform="translate(81 28)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="-32.815" y="0">Start Trip</tspan></text>
+</svg>

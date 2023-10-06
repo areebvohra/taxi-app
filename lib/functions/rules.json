@@ -1,0 +1,15 @@
+{  "rules": { 
+"drivers": { 
+".read": true, 
+".write":true, 
+".indexOn":["is_active","g","service_location_id","vehicle_type","l","ownerid"], 
+},
+ "requests": { ".read": true, ".write": true, ".indexOn":["service_location_id"],
+  }, "SOS": { ".read": true, ".write": true }, 
+  "call_FB_OTP": { ".read": true, ".write": true },
+   "driver_android_version": { ".read": true, ".write": true }, 
+   "driver_ios_version": { ".read": true, ".write": true }, 
+   "user_android_version": { ".read": true, ".write": true }, 
+   "user_ios_version": { ".read": true, ".write": true },
+    "request-meta": { ".read": true, ".write": true, ".indexOn":["driver_id","user_id"] },
+     "owners": { ".read": true, ".write": true, ".indexOn":["driver_id","user_id"] } } }

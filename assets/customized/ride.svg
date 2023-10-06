@@ -1,0 +1,13 @@
+<svg id="ride" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204" height="41" viewBox="0 0 204 41">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="204" height="41" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_37" data-name="Repeat Grid 37" clip-path="url(#clip-path)">
+    <g transform="translate(-110 18)">
+      <rect id="Sign_in_-_btn_Background_Mask_" data-name="Sign in - btn (Background/Mask)" width="203" height="40" rx="15" transform="translate(111 -18)" fill="#858585"/>
+    </g>
+  </g>
+  <text id="Ride_Without_Destination" data-name="Ride Without Destination" transform="translate(102 26)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="-92.551" y="0">Ride Without Destination</tspan></text>
+</svg>

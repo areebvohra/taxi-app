@@ -1,0 +1,4 @@
+<svg id="locateBttn" xmlns="http://www.w3.org/2000/svg" width="152.142" height="39.661" viewBox="0 0 152.142 39.661">
+  <path id="Sign_in_-_btn_Background_Mask_" data-name="Sign in - btn (Background/Mask)" d="M13.744,0H149.352c7.591,0-2.714,9.571-2.714,20.523s10.3,19.137,2.714,19.137H13.744C6.153,39.661,0,30.782,0,19.83S6.153,0,13.744,0Z" fill="#369cc7"/>
+  <text id="Get_Started" data-name="Get Started" transform="translate(76.071 26.33)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.02em"><tspan x="-54.588" y="0">Locate on Map</tspan></text>
+</svg>

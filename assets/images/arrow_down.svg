@@ -1,0 +1,10 @@
+<svg id="arrow_down" xmlns="http://www.w3.org/2000/svg" width="22" height="99.98" viewBox="0 0 22 99.98">
+  <path id="Line" d="M1.5.5,1,50" transform="translate(10 31.75)" fill="#77838f" stroke="#2eb7f2" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="5"/>
+  <path id="Icon" d="M16.333,12.242,8.167,0,0,12.242" transform="translate(19.544 98.978) rotate(179)" fill="#1483e3" stroke="#1483e3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.4"/>
+  <g id="Progress">
+    <g id="Oval" fill="#fff" stroke="#339be7" stroke-miterlimit="10" stroke-width="6">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="8" fill="none"/>
+    </g>
+  </g>
+</svg>
